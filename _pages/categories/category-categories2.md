@@ -1,9 +1,9 @@
 ---
-title: "Categories2"
+title: "maxscript"
 layout: category
-permalink: /categories/categories2/
+permalink: /categories/ms/
 author_profile: true
-taxonomy: Categories2
+taxonomy: maxscript
 sidebar:
   nav: "categories"
 ---
